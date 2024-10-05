@@ -8,4 +8,4 @@ sudo yum upgrade
 sudo yum install fontconfig java-17-openjdk
 sudo yum install jenkins
 sudo systemctl start jenkins.service
-sudo yum install git -y
+
